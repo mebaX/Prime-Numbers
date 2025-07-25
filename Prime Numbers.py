@@ -13,3 +13,5 @@ while True:
         print(number)
     sleep(0.01)
     number += 1
+
+#asal
